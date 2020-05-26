@@ -1,0 +1,44 @@
+html {
+    background-color: teal;
+}
+
+h1 {
+    color: burlywood
+}
+
+body {
+    text-align: center;
+}
+
+.friend {
+    background-color: turquoise;
+    margin: 50px;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+p {
+    text-transform: lowercase;
+    text-align: center;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: salmon;
+    color: lavender;
+}
+
+button:hover {
+    background-color:rebeccapurple;
+}
